@@ -13,7 +13,7 @@ export default function Predict() {
     const [result, setResult] = useState(null);
     const [loading, setLoading] = useState(false);
 
-    const modelName = model === "esc10" ? "ESC10" : "UrbanSound8K";
+    const modelName = model === "esc10" ? "ESC-10" : "UrbanSound8K";
     const apiPrefix = model === "esc10" ? "esc10" : "urbansound"; // pour construire l'URL de l'API
 
     const handleFileChange = (e) => {
