@@ -80,15 +80,5 @@ TimeScaleNet leverages **Deep Learning** techniques to process raw audio wavefor
 - Our **coach and mentors** for their continuous support and guidance.
 - **Our team**, whose collaboration and dedication drove this project to success.
 
----
-
-### GitHub About Section
-
-**TimeScaleNet API & App**  
-_Enhancing sound recognition for hearing accessibility._  
-- **Frontend**: Next.js  
-- **Backend**: FastAPI  
-- **Models**: Optimized ESC-10 and UrbanSound8K for real-world applications.  
-- **Authors**: Mélissa BEN SAADA, Farah EL ASSADI, Rayan BENCHOUK, Bahia KHERFI, Dounia HAMIDI
 
 © Timescalenet : A Multiresolution Approach for Raw Audio Recognition : https://ieeexplore.ieee.org/document/8682378 
